@@ -2,7 +2,9 @@
 
 naaaame = input("Enter your name: ")
 
-print(f"Heeeello, {name}!")
+
+print(f"Heaaallo, {name}!")
+
 
 age = int(input("Enter your age: "))
 
