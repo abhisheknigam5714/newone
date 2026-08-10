@@ -1,6 +1,6 @@
 # Simple Python program
 
-name = input("Enter your name: ")
+naaaame = input("Enter your name: ")
 
 print(f"Hello, {name}!")
 
